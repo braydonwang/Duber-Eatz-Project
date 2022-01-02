@@ -47,6 +47,11 @@ A program designed to help a pizza delivery driver find the correct path in a ma
 
 #### PPM File Output
 
+![TestCasePPM](https://github.com/braydonwang/Duber-Eatz-Project/blob/main/testcase3.png)
+
+- Green represents the starting point
+- Red represents the path
+- Blue represents the destinations
 
 #### Language
 
