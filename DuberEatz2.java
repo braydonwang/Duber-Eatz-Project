@@ -12,7 +12,7 @@ import java.util.Queue;
  * Date: 11/06/2019
 */
 
-public class Level4Plus {
+public class DuberEatz2 {
  static int row;
  static int column;
  static Queue<Integer> allCoordinates;
